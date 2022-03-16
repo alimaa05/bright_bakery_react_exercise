@@ -10,7 +10,7 @@ const Title = () => {
         } else {
             setStatus("open");
         }
-        // ter
+        // ternary operator - conditional rendering 
         // like an else if statemnet  
         // if this is true   ? then do this        : if not do this 
         // status === "open" ? setStatus("closed") : setStatus("open");
